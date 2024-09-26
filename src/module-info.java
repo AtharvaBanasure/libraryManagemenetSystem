@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module libraryManagementSystem {
+	requires junit;
+}
